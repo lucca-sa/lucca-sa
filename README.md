@@ -25,4 +25,4 @@ Languages and Tools:
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucca-sa)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucca-sa&layout=compact)
